@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stavG123
 - 👀 I’m interested in Full-stack
-- 🌱 I’m currently learning B.s Computer Science, B.s Math
+- 🌱 I’m currently Studying B.S. Computer Science, B.S. Math
 - 📫 How to reach me: gorobetss1@lasalle.edu
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a Student Athlete.
